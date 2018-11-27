@@ -246,7 +246,7 @@ pre {
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
-              <h2>Ultimo Cambio: 12-11-2018 a las 19:40 hrs.</h2>
+              <h2>Ultimo Cambio: 27-11-2018 a las 01:45 hrs.</h2>
                 <p>
                   The source code for this application is available to be forked from the <a href="https://www.github.com/openshift/ruby-ex">OpenShift GitHub repository</a>.
                   You can configure a webhook in your repository to make OpenShift automatically start a build whenever you push your code:
